@@ -1,0 +1,14 @@
+C:\Users\josec\source\repos\PatronBuilderEjemplo\PatronBuilderEjemplo\bin\Debug\net6.0\PatronBuilderEjemplo.exe
+C:\Users\josec\source\repos\PatronBuilderEjemplo\PatronBuilderEjemplo\bin\Debug\net6.0\PatronBuilderEjemplo.deps.json
+C:\Users\josec\source\repos\PatronBuilderEjemplo\PatronBuilderEjemplo\bin\Debug\net6.0\PatronBuilderEjemplo.runtimeconfig.json
+C:\Users\josec\source\repos\PatronBuilderEjemplo\PatronBuilderEjemplo\bin\Debug\net6.0\PatronBuilderEjemplo.dll
+C:\Users\josec\source\repos\PatronBuilderEjemplo\PatronBuilderEjemplo\bin\Debug\net6.0\PatronBuilderEjemplo.pdb
+C:\Users\josec\source\repos\PatronBuilderEjemplo\PatronBuilderEjemplo\obj\Debug\net6.0\PatronBuilderEjemplo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\josec\source\repos\PatronBuilderEjemplo\PatronBuilderEjemplo\obj\Debug\net6.0\PatronBuilderEjemplo.AssemblyInfoInputs.cache
+C:\Users\josec\source\repos\PatronBuilderEjemplo\PatronBuilderEjemplo\obj\Debug\net6.0\PatronBuilderEjemplo.AssemblyInfo.cs
+C:\Users\josec\source\repos\PatronBuilderEjemplo\PatronBuilderEjemplo\obj\Debug\net6.0\PatronBuilderEjemplo.csproj.CoreCompileInputs.cache
+C:\Users\josec\source\repos\PatronBuilderEjemplo\PatronBuilderEjemplo\obj\Debug\net6.0\PatronBuilderEjemplo.dll
+C:\Users\josec\source\repos\PatronBuilderEjemplo\PatronBuilderEjemplo\obj\Debug\net6.0\refint\PatronBuilderEjemplo.dll
+C:\Users\josec\source\repos\PatronBuilderEjemplo\PatronBuilderEjemplo\obj\Debug\net6.0\PatronBuilderEjemplo.pdb
+C:\Users\josec\source\repos\PatronBuilderEjemplo\PatronBuilderEjemplo\obj\Debug\net6.0\PatronBuilderEjemplo.genruntimeconfig.cache
+C:\Users\josec\source\repos\PatronBuilderEjemplo\PatronBuilderEjemplo\obj\Debug\net6.0\ref\PatronBuilderEjemplo.dll
